@@ -6,3 +6,4 @@ This repository contains final files that I used in my master's thesis. These ar
 - Report with comparisons - a pracitical report comparing two methods with all plots included, in R code and PDF version
 - Sanger data test - a short comparison of two methods on real dataset
 - Sangerdata - file with aforememtioned data
+
